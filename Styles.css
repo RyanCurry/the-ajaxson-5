@@ -1,0 +1,34 @@
+.error-text {
+color:red;
+}
+
+.error-field {
+border:1px solid red;
+}
+
+#captcha-label {
+font-weight:bold;
+}
+
+div {
+background-color:#0000001a;
+padding:10px;
+border-radius:5px;
+margin-left:20%;
+margin-right:20%;
+}
+
+body {
+text-align:center;
+}
+
+#submitButton {
+border-radius:5px;
+background-color:blue;
+color:white;
+font-weight:bold;
+}
+
+input[name="tag"] {
+width:40%;
+}
