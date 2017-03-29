@@ -12,7 +12,7 @@ font-weight:bold;
 
 div {
 background-color:#0000001a;
-padding:10px;
+padding:20px;
 border-radius:5px;
 margin-left:20%;
 margin-right:20%;
@@ -24,9 +24,10 @@ text-align:center;
 
 #submitButton {
 border-radius:5px;
-background-color:blue;
+background-color:#8D7BFF;
 color:white;
 font-weight:bold;
+padding: 10px;
 }
 
 input[name="tag"] {
